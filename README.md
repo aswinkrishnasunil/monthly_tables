@@ -9,7 +9,8 @@ The code then prints each table to the console and saves each table to a SQLite 
 To use the code, first install the required Python packages:
 
 ```
-pip install tabula sqlalchemy
+pip install tabula-py
+pip install sqlalchemy
 
 ```
 
